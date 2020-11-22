@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSQLAzure", "PythonSQLAzure\PythonSQLAzure.pyproj", "{EB649705-9C53-4454-9030-C8C8D4E18CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB649705-9C53-4454-9030-C8C8D4E18CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB649705-9C53-4454-9030-C8C8D4E18CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C26A54-16AE-4EAB-9EE3-65ADDD607CB4}
+	EndGlobalSection
+EndGlobal
