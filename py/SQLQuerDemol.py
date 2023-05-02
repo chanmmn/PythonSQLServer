@@ -6,7 +6,7 @@ def query_with_id(id_value):
     mydb = mysql.connector.connect(
       host="localhost",
       user="root",
-      password="Pa$$w0rd",
+      password="123456",
       database="world"
     )
 
